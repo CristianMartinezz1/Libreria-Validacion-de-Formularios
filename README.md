@@ -1,5 +1,8 @@
 # 📦 Librería de Validación de Formularios en Java
-
+## 👥 Colaboradores
+- Cristian Martinez Pacheco – [@CristianMartinezz1](https://github.com/CristianMartinezz1) 
+- Angel Eduardo Velasco Vasquez - [@Angel-Eduardo-Velasco-Vasquez] (https://github.com/Angel-Eduardo-Velasco-Vasquez).
+- 
 Esta librería facilita la validación de formularios en interfaces gráficas desarrolladas con Java y Swing. Su objetivo es ofrecer una forma rápida, reutilizable y visualmente clara de validar campos como nombres, correos, teléfonos, contraseñas, CURP, RFC y fechas, mostrando mensajes y resaltando campos inválidos automáticamente.
 
 ---
