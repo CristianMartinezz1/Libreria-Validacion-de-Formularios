@@ -61,8 +61,25 @@ import libreriavalidacion.LibreriaValidacion;
 
 boolean valido = LibreriaValidacion.soloLetras(txtNombre.getText(), txtNombre);
 ```
+## 🖼️ Uso práctico en JFrame
+
+A continuación se muestra un ejemplo del funcionamiento de la librería en una interfaz gráfica (`JFrame`), validando campos de texto y mostrando retroalimentación visual:
+
+![Validación en JFrame](https://i.imgur.com/qf3ZpXN.png)
+
+
 ## 📄 Documentación (Javadoc)
 
 Puedes consultar la documentación técnica generada automáticamente con Javadoc en el siguiente enlace:
 
 🔗 [Ver Javadoc en GitHub Pages](https://cristianmartinezz1.github.io/Libreria-Validacion-de-Formularios/)
+
+## 🎥 Video explicativo (YouTube)
+
+En este video se muestra:
+
+- Cómo importar el archivo `.jar` de la librería en un nuevo proyecto Java.
+- Un ejemplo práctico de uso dentro de una interfaz gráfica (`JFrame`).
+- Duración: menos de 1 minuto.
+
+🔗 [Ver video en YouTube](https://youtu.be/dkA_H2i4oCM)
