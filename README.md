@@ -68,6 +68,10 @@ A continuación se muestra un ejemplo del funcionamiento de la librería en una 
 ![Validación en JFrame](https://i.imgur.com/qf3ZpXN.png)
 
 
+### ✅ Ejemplo 2: Campos resaltados y mensajes de error
+
+![Validación en JFrame 2](https://i.imgur.com/SsOjEci.png)
+
 ## 📄 Documentación (Javadoc)
 
 Puedes consultar la documentación técnica generada automáticamente con Javadoc en el siguiente enlace:
